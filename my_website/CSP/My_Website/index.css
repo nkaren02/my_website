@@ -1,0 +1,51 @@
+a:link {
+	color:#00ff00;	
+}
+
+a:visited {
+	color:#ffff00;
+}
+
+body {
+	font-family: "Cooper Black", fantasy;
+	background: url(https://www.pexels.com/photo/jetty-landing-stage-sea-sky-3847/);
+	padding-left: 15px;
+}
+
+h1 {
+	font-size: 2.0em;
+	font-style: Comic Sans MS;
+	text-align: center;
+	text-shadow: 0px 0px #000000;
+}
+
+h2 {
+	font-size: 1.2em;
+	text-shadow: 0px 0px #000000;
+	text-align: left;
+}
+
+table {
+	margin-left: inherit;
+	margin-right: inherit;
+	border-collapse: collapse;
+	
+}
+
+td {
+    padding: 5px;
+    border: solid;
+    border-color: #ffff00;
+    
+}
+tr {
+	border: 3px solid #ffffff;
+	text-align: center;
+	background-color:#002222; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #006666;
+}
